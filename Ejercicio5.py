@@ -26,3 +26,4 @@ clasificaciones = clasificarCabinas(cantidadCabinas)
 print("Listado de clasificaciones de cabinas:")
 for i, clasificacion in enumerate(clasificaciones):
     print(f"Cabina {i + 1}: {clasificacion}")
+    # Esta bueno le codigo
