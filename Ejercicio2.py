@@ -22,3 +22,5 @@ print("listado de salarios")
 
 for i, lsalario in enumerate(salario):
     print(f"Empleado {i + 1}: ${lsalario:.2f}")
+
+# Mostramos el listado de los salarios de los empleados 
